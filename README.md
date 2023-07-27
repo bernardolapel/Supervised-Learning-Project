@@ -21,7 +21,9 @@ The ultimate goal of the project is to gain insights from the data sets and comm
 - Use supervised learning techniques to build a machine learning model that can predict whether a patient has diabetes or not, based on certain diagnostic measurements. 
 - Perform exploratory data analysis, 
 - Preprocessing and feature engineering, and 
-- Training a machine learning model. 
+- Training machine learning model. 
+- Testing machine learning model.
+- Validating machine learning model.
 
 ## Process
 Step 1: Import libraries and load dataset
